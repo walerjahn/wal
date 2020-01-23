@@ -1,0 +1,13 @@
+C:\Users\romashqua\source\repos\ConsoleApp4\test\bin\Debug\test.dll
+C:\Users\romashqua\source\repos\ConsoleApp4\test\bin\Debug\test.pdb
+C:\Users\romashqua\source\repos\ConsoleApp4\test\bin\Debug\ConsoleApp4.exe
+C:\Users\romashqua\source\repos\ConsoleApp4\test\bin\Debug\nunit.framework.dll
+C:\Users\romashqua\source\repos\ConsoleApp4\test\bin\Debug\ConsoleApp4.pdb
+C:\Users\romashqua\source\repos\ConsoleApp4\test\bin\Debug\ConsoleApp4.exe.config
+C:\Users\romashqua\source\repos\ConsoleApp4\test\bin\Debug\nunit.framework.pdb
+C:\Users\romashqua\source\repos\ConsoleApp4\test\bin\Debug\nunit.framework.xml
+C:\Users\romashqua\source\repos\ConsoleApp4\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\romashqua\source\repos\ConsoleApp4\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\romashqua\source\repos\ConsoleApp4\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\romashqua\source\repos\ConsoleApp4\test\obj\Debug\test.dll
+C:\Users\romashqua\source\repos\ConsoleApp4\test\obj\Debug\test.pdb
